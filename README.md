@@ -21,12 +21,16 @@ MFCC (Mel-Frequency Cepstral Coefficients).
 ## Model
 Convolutional Neural Network (CNN).
 
-## Emotions Recognized
+ ## Emotions Recognized
+
 1. Neutral
 2. Calm
 3. Happy
 4. Sad
 5. Angry
+6. Fearful
+7. Disgust
+8. Surprised
    ## Trained Model
 
 The trained CNN model is saved as
